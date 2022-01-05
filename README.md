@@ -1,4 +1,4 @@
-<h2>Hi, I’m @BethDataHub :wave: </h2>
+<h2>Hi, I’m Bethany</h2>
 I like SQL, Powershell & Python :snake:
 
 <!---
