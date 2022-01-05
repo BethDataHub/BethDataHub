@@ -1,4 +1,4 @@
-<h2>Hi, I’m Bethany</h2>
+<h2>Hi, I’m Bethany :wave: </h2>
 I like SQL, Powershell & Python :snake:
 
 <!---
